@@ -23,7 +23,7 @@ It's so easy to:
 Is this | a  | table?
 --- | --- | ---
 that | would | be
---- | --- | so
-C | oo | l
+just | so | darn
+| cool |
 
 Click [here](https://github.com/remyoudemans) to go to my GitHub profile.
