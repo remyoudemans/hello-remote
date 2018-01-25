@@ -20,4 +20,10 @@ It's so easy to:
    2. hehe
 2. Great
 
+Is this | a  | table?
+--- | --- | ---
+that | would | be
+--- | --- | so
+C | oo | l
+
 Click [here](https://github.com/remyoudemans) to go to my GitHub profile.
