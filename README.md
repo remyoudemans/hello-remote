@@ -27,9 +27,10 @@ just | so | darn
 \ | cool | /
 
 > This is really almost too much fun
+
 You don't say
-> I do
-> I really do.
+
+> I do. I really do.
 
 ***
 
