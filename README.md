@@ -11,12 +11,12 @@ It's so easy to:
 * make sexy titles
 * do bold
 * italics
-..* very cool
+··* very cool
 * recursive bullet points!
-
+··1. Ordered sub-list
 1. order!
-..1. So much order
-..2. hehe
+··1. So much order
+··2. hehe
 2. Great
 
 Click [here](https://github.com/remyoudemans) to go to my GitHub profile.
