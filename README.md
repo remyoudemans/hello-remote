@@ -3,12 +3,20 @@ dev275x
 
 This is **my first Markdown page**.
 
-I really appreciate how *darn simple* this is.
+###### I really appreciate how *darn simple* this is.
+
+**_so much formatting!_**
 
 It's so easy to:
 * make sexy titles
 * do bold
 * italics
+..* very cool
 * recursive bullet points!
+
+1. order!
+..1. So much order
+..2. hehe
+2. Great
 
 Click [here](https://github.com/remyoudemans) to go to my GitHub profile.
