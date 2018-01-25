@@ -24,6 +24,6 @@ Is this | a  | table?
 --- | --- | ---
 that | would | be
 just | so | darn
-| cool |
+ | cool |
 
 Click [here](https://github.com/remyoudemans) to go to my GitHub profile.
